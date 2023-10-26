@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dana Vrajitoru
 - 👀 I’m interested in AI, computer graphics, games programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: by email.
 
